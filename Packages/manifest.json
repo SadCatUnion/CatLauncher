@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "2.3.3",
     "com.tuyoogame.yooasset": "1.4.9",
     "com.unity.ide.rider": "3.0.18",
     "com.unity.textmeshpro": "3.0.6",
@@ -42,7 +43,8 @@
       "name": "package.openupm.cn",
       "url": "https://package.openupm.cn",
       "scopes": [
-        "com.tuyoogame.yooasset"
+        "com.tuyoogame.yooasset",
+        "com.cysharp.unitask"
       ]
     }
   ]
